@@ -14,4 +14,4 @@ with open("input.txt", "r") as file:
             count3 += 1
 
     result = count2 * count3
-        
+    print(result)

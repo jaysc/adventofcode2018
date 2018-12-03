@@ -4,5 +4,9 @@
 			"path": "."
 		}
 	],
-	"settings": {}
+	"settings": {
+		"AREPL.whenToExecute": "onKeybinding",
+		"AREPL.skipLandingPage": true,
+		"AREPL.show_to_level": 1
+	}
 }
