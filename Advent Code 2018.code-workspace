@@ -7,6 +7,7 @@
 	"settings": {
 		"AREPL.whenToExecute": "onKeybinding",
 		"AREPL.skipLandingPage": true,
-		"AREPL.show_to_level": 1
+		"AREPL.show_to_level": 1,
+		"python.pythonPath": "C:\\Anaconda3\\python.exe"
 	}
 }
